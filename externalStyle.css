@@ -1,0 +1,74 @@
+body{
+    color: white;
+    background-image: url("background2.png");  
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.3em;
+}
+
+img{
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 30%;
+}
+
+td {
+    text-align: left;
+    color:darkblue;
+    padding: 13px;
+}
+
+tr:nth-child(odd) {
+    background-color: grey;
+}
+
+tr:nth-child(even) {
+    background-color: wheat;
+}
+
+#Error {
+    margin: auto;
+    width: 800px;
+    line-height: 400px;
+    text-align: center;
+}
+
+h2{
+    text-align:center;
+    font-size: 2em;
+}
+
+#Game{
+    max-width:30%; 
+    margin-left:auto;  
+    margin-right:auto;
+    text-align:left;
+    font-size: 1.2em;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5em
+}
+
+#Education{
+    max-width:30%; 
+    margin-left:auto;  
+    margin-right:auto;
+    text-align:left;
+    font-size: 1.2em;
+}
